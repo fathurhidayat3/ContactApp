@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Contact Application",
+    "slug": "ContactApplication",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E95436"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fathurhidayat3.contactapp"
+    },
+    "android": {
+      "package": "com.fathurhidayat3.contactapp"
+    },
+    "androidStatusBarColor": "#E95436",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#E95436"
+    }
+  }
+}
