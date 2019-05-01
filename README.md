@@ -16,9 +16,10 @@ Aplikasi Kontak dibuat dengan React Native (Expo).
   - Yup 
 
 ### Demo Aplikasi
-  - Unduh aplikasi (.apk) [di sini](https://expo.io/builds/034b06e1-a971-4203-a413-31f340c996d3)
-  - Login menggunakan akun expo.io Anda
-  - Buka file .apk, apabila muncul beberapa prompt/window yang meminta persetujuan silahkan tekan izinkan
+  - Unduh aplikasi (.apk) [di sini](https://drive.google.com/open?id=1dlg6kuiRFbPXCqjbj7IgJ4rBcAJIsXxP)
+  - Matikan koneksi internet
+  - Bersihkan cache aplikasi 
+  - Buka file .apk, apabila muncul beberapa prompt/window yang meminta persetujuan silahkan tekan izinkan/lanjutkan
 
 ### Development Mode
   - Pastikan di machine sudah terinstall [Node.js](https://nodejs.org/en/) dengan versi 10 ke atas. Untuk memastikan Node.js terinstall eksekusi perintah :
