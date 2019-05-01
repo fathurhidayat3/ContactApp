@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Contact Application",
-    "slug": "ContactApplication",
+    "slug": "contactapplication",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,10 +24,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.fathurhidayat3.contactapp"
+      "bundleIdentifier": "com.fzrbbx.contactapplication"
     },
     "android": {
-      "package": "com.fathurhidayat3.contactapp"
+      "package": "com.fzrbbx.contactapplication"
     },
     "androidStatusBarColor": "#E95436",
     "androidStatusBar": {
