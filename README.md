@@ -7,8 +7,8 @@ Aplikasi Kontak dibuat dengan React Native (Expo).
   - Persistent Login dengan AsyncStorage 
   - Autoredirect ke HomePage jika sudah terautentikasi / token masih valid
   - Paginasi Contact List
-  - Limit jumah Contact Item sesuai dimensi device 
-    - Dicoba di layar 4inches(Samsung Galaxy S Duoas) dan 5.5inches(Xiaomi Redmi Note 3 Pro)
+  - Limit jumlah Contact Item sesuai dimensi device 
+    - Dicoba di layar 4inches(Samsung Galaxy S Duos) dan 5.5inches(Xiaomi Redmi Note 3 Pro)
 
 ### Dependency 
   - Expo built-in (react-native, react-navigation, vector-icons, dll)
@@ -16,8 +16,12 @@ Aplikasi Kontak dibuat dengan React Native (Expo).
   - Yup 
 
 ### Demo Aplikasi
-  - Unduh aplikasi (.apk) [di sini](https://drive.google.com/open?id=17RwqnMpr9eGMlv8fML1Ih9VW3ZTq37xn)
-  - Buka file .apk, apabila muncul beberapa prompt/window yang meminta persetujuan silahkan tekan izinkan
+  - Unduh aplikasi (.apk) [di sini](https://drive.google.com/open?id=1dlg6kuiRFbPXCqjbj7IgJ4rBcAJIsXxP)
+  - Matikan koneksi internet
+  - Bersihkan cache aplikasi 
+  - Buka file .apk, apabila muncul beberapa prompt/window yang meminta persetujuan silahkan tekan izinkan/lanjutkan/tetap install
+
+---
 
 ### Development Mode
   - Pastikan di machine sudah terinstall [Node.js](https://nodejs.org/en/) dengan versi 10 ke atas. Untuk memastikan Node.js terinstall eksekusi perintah :
@@ -39,6 +43,8 @@ Aplikasi Kontak dibuat dengan React Native (Expo).
 ```
   - Apabila ingin melakukan preview aplikasi di device, silahkan install Expo Client. Untuk Android dapat diunduh di [download Expo Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www).
   - Buka Expo Client lalu pilih Scan QR Code dan arahkan ke bagian kiri bawah Expo Dev Server di browser. Tunggu proses binding ke device hingga muncul splash screen.
+  
+---
   
 ### Lisensi
 Aplikasi ini berlisensi di bawah [MIT](https://choosealicense.com/licenses/mit/).
